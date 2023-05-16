@@ -21,9 +21,11 @@ As competições de CTF são divididas em duas modalidades: Jeopardy e Attack-De
 
 Para participar do time, você deve estar matriculado na UNIFEI e ter interesse em aprender sobre CTF. Não é necessário ter conhecimento prévio sobre o assunto, apenas vontade de aprender.
 
-## Como funciona o processo seletivo?
+## Não sou da UNIFEI, posso participar?
 
-O processo seletivo é dividido em duas etapas. Na primeira etapa, o candidato deve resolver um desafio de CTF. Na segunda etapa, o candidato deve resolver um desafio de CTF e explicar como resolveu o mesmo.
+Sim, este repositório é Público, com "p" maiúsculo! Caso tenha uma sugestão para os conteúdos de estudo para RoadSec, você pode abrir uma [issue](https://github.com/diogojorgebasso/roadmap-hawksec/issues) e posteriormente enviar uma [pull request](https://github.com/diogojorgebasso/roadmap-hawksec/pulls) com o arquivo de sua sugestão.
+
+Além disso, temos [discussões](https://github.com/diogojorgebasso/roadmap-hawksec/discussions) abertas sobre todas nossas áreas. Você pode participar delas e contribuir com o projeto.
 
 ## Como faço para entrar em contato?
 
