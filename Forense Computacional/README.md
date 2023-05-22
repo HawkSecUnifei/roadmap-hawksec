@@ -27,3 +27,10 @@ Desta maneira iremos postar um segundo roadmap focalizado em outro assunto relac
     - Pesquise outros desafios além dos propostos.
     - Procure utilizar as ferramentas pesquisadas no tópico de “Investigação de Redes e Tráfego”. Recomendação: WIRESHARK.
     
+## Introdução à Forense Computacional
+Irei inserir alguns links redirecionando para conteúdos que poderão servir como guia para vocês:
+
+1. [ChatGPT](https://chat.openai.com/auth/login) - consulta geral sobre forense computacional; utilize para fazer perguntas gerais relacionadas ao tema. A partir daí, você pode ir aprofundando seu estudo fazendo perguntas mais complexas ou até mesmo para encotrar outras fontes de consulta.
+2. O livro "Digital Evidence and Computer Crime" (Evidência Digital e Crime Computacional) - Livro de Richard E. Overman; Livro que aborda os princípios básicos da forense computacional, incluindo a evidência digital e os conceitos da cadeia de custódia.
+3. [Video "Basics of Cybercrime Investigation](https://invidious.flokinet.to/watch?v=pM8yX-cr6S8&listen=false)
+    
