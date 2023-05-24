@@ -23,9 +23,9 @@ Para participar do time, você deve estar matriculado na UNIFEI e ter interesse 
 
 ## Não sou da UNIFEI, posso participar?
 
-Sim, este repositório é Público, com "p" maiúsculo! Caso tenha uma sugestão para os conteúdos de estudo para RoadSec, você pode abrir uma [issue](https://github.com/diogojorgebasso/roadmap-hawksec/issues) e posteriormente enviar uma [pull request](https://github.com/diogojorgebasso/roadmap-hawksec/pulls) com o arquivo de sua sugestão.
+Sim, este repositório é Público, com "p" maiúsculo! Caso tenha uma sugestão para os conteúdos de estudo para RoadSec, você pode abrir uma [issue](https://github.com/HawkSecUnifei/roadmap-hawksec/issues) e posteriormente enviar uma [pull request](https://github.com/HawkSecUnifei/roadmap-hawksec/pulls) com o arquivo de sua sugestão.
 
-Além disso, temos [discussões](https://github.com/diogojorgebasso/roadmap-hawksec/discussions) abertas sobre todas nossas áreas. Você pode participar delas e contribuir com o projeto.
+Além disso, temos [discussões](https://github.com/HawkSecUnifei/roadmap-hawksec/discussions) abertas sobre todas nossas áreas. Você pode participar delas e contribuir com o projeto.
 
 ## Como faço para entrar em contato?
 
