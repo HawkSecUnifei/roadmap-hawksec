@@ -30,11 +30,11 @@ Podemos observar a aplicação dos sistemas digitais em DLPs, CLPDs, FPGAs, CPUs
 ##### Programação em C e Assembly
 
 Após possuir a base em eletrônica analógica e digital é preciso estabelecer bem as bases em programação na linguagem C. A linguagem C é caracterizada pela sua alta velocidade e possiblidade de gerenciar os recursos de memória de modo compreensível aos seres humanos.
-Entender como funcionam seus tipos, sintaxe, loops while e for, funções, structs, unions, ponteiros, alocação de memória, listas, pilhas, filas, etx, auxiliam no processo de teste de penetração em dispositovs IoT, na engenharia reversa de dispositivos, dentre outros.
+Entender como funcionam seus tipos, sintaxe, loops while e for, funções, structs, unions, ponteiros, alocação de memória, listas, pilhas, filas, etc, auxiliam no processo de teste de penetração em dispositovs IoT, na engenharia reversa de dispositivos, dentre outros.
 Ao descer mais um nível chegamos na linguagem de montagem (Assembly), indispensável para entender mais a respeito de sistemas de baixo nível e restritos em recursos. O tipo de 'Assembly' pode variar de acordo com a sua arquitetura
 como x86 (utilizando amplamente em desktops), ARM (dispositivos móveis) e RISC-V (Reduced Instruction Set Computer V).
 
-Aprender sobre os protocolos de comunicação serial como I2C e UART auxiliaram imensamente nas an
+Aprender sobre os protocolos de comunicação serial como I2C e UART, também será de grande valia.
 
 ### Semana 4 (Dia 22 - 30)
 
@@ -45,11 +45,11 @@ Side Channel Attacks, Ataques baseados em Eletromagnetismo, ChipWhisperer, etc.
 
 ### Hardware
 
-- Osciloscópio: Equipamento eletrônico que exibe o sinal analisado ao decorrer do tempo,
+- Osciloscópio: Equipamento eletrônico que exibe o sinal analisado ao decorrer do tempo.
 
 - Multímetro: Equipamento utilizado para medições de grandezas como tensão, corrente elétrica, resistência, dentre outros.
 
-- Gerador de Sinais: Equipamento que gera sinais de onde, de diferentes formatos,
+- Gerador de Sinais: Equipamento que gera sinais de onde, de diferentes formatos.
 
 - Bus Pirate: Ferramenta multiuso usado em sistemas embarcados que tem como função a análise de protocolos de comunicação, geração de formas de onda, captura de sinais analógicos, dentre outros.
 
@@ -57,7 +57,7 @@ Side Channel Attacks, Ataques baseados em Eletromagnetismo, ChipWhisperer, etc.
 
 - [Raspberry Pi](https://www.raspberrypi.com/): Computador portátil (single-board) com foco em baixo custo, modularidade e design aberto.
 
-- [Proxmark3](https://github.com/Proxmark/proxmark3): Ferramenta utilizada para análise, clonagem e emulação de dispositivos RFID 
+- [Proxmark3](https://github.com/Proxmark/proxmark3): Ferramenta utilizada para análise, clonagem e emulação de dispositivos RFID. 
 
 - ESP32 MCU: Plataforma de desenvolvimento IoT modular e portátil, baseada no microcontrolador ESP32.
 
@@ -67,8 +67,7 @@ Side Channel Attacks, Ataques baseados em Eletromagnetismo, ChipWhisperer, etc.
 
 ### Software
 
-Grande parte dos ataques e análises necessitam das ferramentas em Hardware, porém é preciso possuir um repertório de ferramentas baseadas em Software, pois elas irão automatizar e facilitar
-o trabalho em muitas ocasiões. Dentre algumas ferramentas podemos citar:
+Grande parte dos ataques e análises necessitam das ferramentas em Hardware, porém é preciso possuir um repertório de ferramentas baseadas em Software, pois elas irão automatizar e facilitar o trabalho em muitas ocasiões. Dentre algumas ferramentas podemos citar:
 
 - Linguagem C 
 - GDB 
