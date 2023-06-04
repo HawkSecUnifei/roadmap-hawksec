@@ -1,4 +1,6 @@
-# Roadmap Hardware Hacking
+# Autoestudo de Hardware Hacking
+
+Feito por: [Getúlio Victor](https://github.com/GetulioVictor)
 
 ## Emenda
 
@@ -8,6 +10,7 @@ Nesse roadmap será apresentado os conteúdos necessários para aprofundar-se no
 - Ferramentas de Hardware e Software
 
 Os conteúdos das semanas 1 a 3 englobam em grande parte os pré-requisitos da área de Hardware Hacking, é indispensável dominar essas habilidades antes de prosseguir nos estudos.
+Lembrando que o intuito desse roadmap é apresentar sobre conceitos básicos de Hardware Hacking que devem ser estudados, para especializar nesse área, assim como outros, é preciso de muita dedicação e estudo.
 
 ### Semana 1 (Dia 1 - 7)
 
@@ -50,15 +53,15 @@ Side Channel Attacks, Ataques baseados em Eletromagnetismo, ChipWhisperer, etc.
 
 - Bus Pirate: Ferramenta multiuso usado em sistemas embarcados que tem como função a análise de protocolos de comunicação, geração de formas de onda, captura de sinais analógicos, dentre outros.
 
-- Arduino: Plataforma que possibilita a criação de protótipos eletrônicos de modo fácil, barato e acessivel.
+- [Arduino](https://www.arduino.cc/): Plataforma que possibilita a criação de protótipos eletrônicos de modo fácil, barato e acessivel.
 
-- Raspberry Pi: Computador portátil (single-board) com foco em baixo custo, modularidade e design aberto.
+- [Raspberry Pi](https://www.raspberrypi.com/): Computador portátil (single-board) com foco em baixo custo, modularidade e design aberto.
 
-- Proxmark3: Ferramenta utilizada para análise, clonagem e emulação de dispositivos RFID 
+- [Proxmark3](https://github.com/Proxmark/proxmark3): Ferramenta utilizada para análise, clonagem e emulação de dispositivos RFID 
 
 - ESP32 MCU: Plataforma de desenvolvimento IoT modular e portátil, baseada no microcontrolador ESP32.
 
-- HackRFOne (Rádio definido por Software): Utilizada em testes de segurança, pesquisas com ênffase em comunicações sem fio e radiofrequência, etc. 
+- [HackRFOne](https://greatscottgadgets.com/hackrf/one/) (Rádio definido por Software): Utilizada em testes de segurança, pesquisas com ênffase em comunicações sem fio e radiofrequência, etc. 
 
 - Analisador Lógico: Utilizado para captura e análise de sinais digitais em um sistema. Amplamente utilizado para visualizar e depurar a comunicações entre microcontroladores, memórias, etc. 
 
@@ -70,38 +73,56 @@ o trabalho em muitas ocasiões. Dentre algumas ferramentas podemos citar:
 - Linguagem C 
 - GDB 
 - KVM
-- Binwalk
-- Firmadyne
-- Firmwalker
-- Radare2
-- Python (Scripts)
-- NMap
-- Burp Suite
-- ZMap
-- Nessus 
+- [Binwalk](https://github.com/ReFirmLabs/binwalk)
+- [Firmadyne](https://github.com/firmadyne/firmadyne)
+- [Firmwalker](https://github.com/craigz28/firmwalker)
+- [Radare2](https://github.com/radareorg/radare2)
+- [Python](https://www.python.org/) (Scripts)
+- [NMap](https://nmap.org/)
+- [Burp Suite](https://www.kali.org/tools/burpsuite/)
+- [ZMap](https://zmap.io/)
 
 ## Recursos
 
 Nessa secção estão presentes alguns recursos, não se limitem apenas ao que está aqui!
 
 ### Videos e Playlists
-- https://youtube.com/channel/UCEyOwgMMfo8aJc4vZm6mYWw 
-- https://youtube.com/playlist?list=PLL8bstVVO1fCsO46wrpYvgNqXTcDIxy4P 
+- [Hardware Hacking - Julio Della Flora](https://youtube.com/channel/UCEyOwgMMfo8aJc4vZm6mYWw) 
+- [Binary Freaks - Hardware Hacking Playlist](https://youtube.com/playlist?list=PLL8bstVVO1fCsO46wrpYvgNqXTcDIxy4P) 
 - https://youtube.com/playlist?list=PLbuL3Aqx_G3Hh4zn_BK5Cen5zsFI4QRbS 
-- https://youtube.com/playlist?list=PLuyjXiwnBIa3uiLCO9DKNWQcgG_vJ-gaz 
-- https://youtube.com/playlist?list=PLGdaaZUNDlN6ntfjur2GZPyQiR6-bU2_e 
-- https://www.youtube.com/@nesoacademy/playlists  
+- [Hardware Hacking Playlist 2](https://youtube.com/playlist?list=PLuyjXiwnBIa3uiLCO9DKNWQcgG_vJ-gaz) 
+- [Roadsec - Hardware Hacking](https://youtube.com/playlist?list=PLGdaaZUNDlN6ntfjur2GZPyQiR6-bU2_e) 
+- [Neso Academy - Playlists](https://www.youtube.com/@nesoacademy/playlists)  
 
 ### Sites
 
-- https://securinghardware.com/articles/BlackHat-Hardware-Training-Roadmap/
-- https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme
-- https://github.com/kitspace/awesome-electronics#readme 
-- https://securinghardware.com/
-- https://github.com/jaredthecoder/awesome-vehicle-security#readme 
+- [Hardware Hacking Training](https://securinghardware.com/articles/BlackHat-Hardware-Training-Roadmap/)
+- [Embedded and IoT Security Resources](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+- [Electronics Resources](https://github.com/kitspace/awesome-electronics#readme)
+- [Securing Hardware](https://securinghardware.com/)
+- [Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 ### Livros
 
+#### Eletrônica Analógica
+- Introdução à Análise de Circuitos - Robert L. Boylestad
+- Dispositivos Eletrônicos e Teoria de Circuitos - Robert L. Boylestad e Louis Nashelsky
+- Eletrônica: Volume I  - Albert Malvino e David Bates
+- Eletrônica: Volume II - Albert Malvino e David Bates
+
+#### Eletrônica Digital
+- Sistemas Digitais: Fundamentos e Aplicações - Floyd
+- Sistemas Digitais: Princípios e Aplicações - Ronald J. Tocci, Neal S. Widmer e Gregory L. Moss
+- Digital Design and Verilog HDL Fundamentals - Joseph Cavanagh
+- Circuitos Digitais, Análise e Síntese Lógica: Aplicações em FPGA - Tales Cleber Pimenta
+
+#### Linguagem C e Assembly
+- Low-Level Programming: C, Assembly, and Program Execution on Intel 64 Architecture - Igor Zhirkov
+- C Primer Plus - Stepehn Prata
+- Linguagem C: Completa e Descomplicada - André Backes
+- Beginning X64 Assembly Programming: From Novice to Avx Professional - Jo Van Hoey
+
+#### Hardware Hacking
 - IoT Penetration Testing Cookbook – Aaron Guzman e Aditya Gupta
 - Hardware Hacking: Have Fun While Voiding Your Warranty –  Joe Grand, Ryan Russell e Kevin Mitnick
 - The Hardware Hacker: Adventures in Making and Breaking Hardware – Andrew "bunnie" Huang
@@ -110,14 +131,9 @@ Nessa secção estão presentes alguns recursos, não se limitem apenas ao que e
 
 ### Profissionais e Pesquisadores da área
 
-- Julio Della Flora
-- Andrew "bunnie" Huang
-- Joe Grand
-- Colin O'Flynn
-- Travis Goodspeed
-- Michael Ossmann
-
-## Observação
-
-O intuito desse roadmap é proporcionar uma introdução a área de Hardware Hacking, o período de 30 dias é demasiadamente pequeno para entender a complexidade de cada área do conhecimento,
-porém caso deseje se especializar, a jornada será longa.
+- [Julio Della Flora](https://www.instagram.com/juliodellaflora/reels/)
+- [Andrew "bunnie" Huang](https://github.com/bunnie)
+- [Joe Grand](https://www.youtube.com/c/JoeGrand)
+- [Colin O'Flynn](https://twitter.com/colinoflynn)
+- [Travis Goodspeed](https://twitter.com/travisgoodspeed)
+- [Michael Ossmann](https://hackaday.com/tag/michael-ossmann/)
