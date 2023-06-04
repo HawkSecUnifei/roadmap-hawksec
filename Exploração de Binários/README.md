@@ -35,6 +35,9 @@ Lembrando que para alcançar a maestria nessa área, assim como as outras, é pr
 - [PinkDraconian](https://youtube.com/playlist?list=PLeSXUd883dhjnFXPf2QA0KnUnJnn9dPWy)
 - [The Cyber Expert](https://youtube.com/playlist?list=PL-DxAN1jsRa_rO0pr-1uJR_k_5Y9n-V1i)
 - [John Hammond](https://youtu.be/tMN5N5oid2c)
+- [Binary Exploit Development Course](https://www.youtube.com/playlist?list=PLt9cUwGw6CYEmxx_3z1d-uT9zdEd58yOq)
+- [Buffer Overflow Tutorials](https://www.youtube.com/playlist?list=PLt9cUwGw6CYHMxd__-EHCf7VS7X3bRxyT)
+- [Linux Hacking Tutorials](https://www.youtube.com/playlist?list=PLt9cUwGw6CYFPAS8WIvAqtmn9h9VFso3K)
 
 ### Livros
 
@@ -57,9 +60,11 @@ Lembrando que para alcançar a maestria nessa área, assim como as outras, é pr
  - [Pwnable.xyz](https://pwnable.xyz/)
  - [Exploit Education](https://exploit.education/)
  - [pwnable.tw](https://pwnable.tw/challenge/)
-
+ - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+ 
 ### Ferramentas
   
+  - [REMnux](https://remnux.org/)
   - [SQLmap](https://github.com/sqlmapproject/sqlmap)
   - [XSStrike](https://github.com/UltimateHackers/XSStrike)
   - [Commix](https://github.com/commixproject/commix)
