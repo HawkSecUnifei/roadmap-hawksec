@@ -18,8 +18,8 @@ Lembrando que para alcançar a maestria nessa área, assim como as outras, é pr
   - Conceitos (Buffers, Stacks, Heaps, Global Offset Table (GOT), Return Oriented Programming (ROP))
   - Segurança em Binários
   - Buffer Overflow
-  - Heap Overflows
-  - Stack Overflows
+  - Heap Overflow
+  - Stack Overflow
 ### Semana 4 (Dia 22-30)
   - Ferramentas (Metasploit, HexEditor, SQLMap, Etc)
   - Análise de Malware
