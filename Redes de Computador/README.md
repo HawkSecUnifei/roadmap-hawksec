@@ -5,7 +5,7 @@ O conteúdo será dividido em tópicos divididos pelo período de 30 dias e como
 Desta maneira iremos postar um segundo roadmap focalizado em outro assunto relacionado a área, ao fim dos 30 dias.
 
 ### Dia 01-07: 
-    - Uma rede de computadores é um grupo de dois ou mais sistemas de computadores interconectados que usam protocolos de conexão comuns para compartilhar vários recursos e arquivos. As topologias de rede descrevem os métodos nos quais todos os elementos de uma rede são mapeados, existem vários tipos de opções de rede de computadores disponíveis. A classificação de rede em computadores pode ser feita de acordo com seu tamanho, bem como sua finalidade. Descobrir as vantagens e as desvatangens de um certo tipo de topologia.
+    * Uma rede de computadores é um grupo de dois ou mais sistemas de computadores interconectados que usam protocolos de conexão comuns para compartilhar vários recursos e arquivos. As topologias de rede descrevem os métodos nos quais todos os elementos de uma rede são mapeados, existem vários tipos de opções de rede de computadores disponíveis. A classificação de rede em computadores pode ser feita de acordo com seu tamanho, bem como sua finalidade. Descobrir as vantagens e as desvatangens de um certo tipo de topologia.
     
 
 ### Dia 07-14: 
