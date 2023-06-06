@@ -1,4 +1,4 @@
-# Autoestudo de Redes de Computador
+# Autoestudo de Rede de Computador
 
 ## Emenda 
 O conteúdo será dividido em tópicos divididos pelo período de 30 dias e como o assunto é vasto, foi dada certa prioridade ao assunto básico de redes de computador.
