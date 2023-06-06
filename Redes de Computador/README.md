@@ -1,6 +1,6 @@
 # Autoestudo de Redes de Computador
 
-## Ementa 
+## Emenda 
 O conteúdo será dividido em tópicos divididos pelo período de 30 dias e como o assunto é vasto, foi dada certa prioridade ao assunto básico de redes de computador.
 Desta maneira iremos postar um segundo roadmap focalizado em outro assunto relacionado a área, ao fim dos 30 dias.
 
@@ -18,7 +18,16 @@ Desta maneira iremos postar um segundo roadmap focalizado em outro assunto relac
 - O modelo OSI tem sido usado há décadas para ajudar os especialistas de TI a entender a rede e solucionar problemas que possam surgir em qualquer estágio do processo de rede. Como tal, ainda é valioso hoje para profissionais de segurança da informação que procuram conduzir um inventário de ativos. O TCP/IP é fundamental para a rede de internet. Esses dois protocolos garantem que pacotes de informações cheguem a seu destino de forma correta e segura. Entender como cada camada funciona e como elas estão interligadas é fundamental para enteder como a internet funciona.
 
 
-## Introdução à Redes de Computador
+## Livros
 Irei inserir alguns links redirecionando para conteúdos que poderão servir como guia para vocês:
 
-1. 
+1. Computer Networking: A Top-Down Approach – James F. Kurose e Keith W. Ross
+ 
+2. TCP/IP Illustrated, Volume 1: The Protocols – W. Richard Stevens
+ 
+3. Computer Networks: A Systems Approach – Larry L. Peterson e Bruce S. Davie
+ 
+4. Network Security Essentials: Applications and Standards – William Stallings
+ 
+5. Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems – Chris Sanders
+
