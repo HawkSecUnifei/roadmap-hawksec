@@ -112,5 +112,10 @@ Não é possível montar um plano de estudos para cada vulnerabilidade, então s
   * Videos:  
         1.    
         2.    
-        3.
+        3.  
+
+Irei inserir alguns links redirecionando para conteúdos que poderão servir como guia para vocês:  
+
+https://book.hacktricks.xyz/pentesting-web/web-vulnerabilities-methodology  
+https://xpsec.co/roadmap  
 
