@@ -1,19 +1,116 @@
 Autoestudo de Web Hacking
 
-Emenda
-O conteúdo será dividido em tópicos divididos pelo período de 30 dias e como o assunto é vasto, foi dada certa prioridade ao assunto básico de web hacking. Desta maneira iremos postar um segundo roadmap focalizado em outro assunto relacionado a área, ao fim dos 30 dias.
+Em todo Web Pentest, existem vários lugares ocultos e óbvios que podem estar vulneráveis. Detalhes básicos já foram cobridos em outros diretórios da HawkSec, então será mais focado nas vulnerabilidades. Ninguem consegue especializar só estudando, invadir sistemas é a melhor maneira de aprender. Como não há como cobrir todos as vulnerabilidades, será focado no top 10 OWASP.
 
-Dia 01-07:
+Não é possível montar um plano de estudos para cada vulnerabilidade, então será postado links com explicações e como acessar essas vulnerabilidade.
 
+**Controle de acesso quebrado:**  
+  * Links:   
+        1. https://portswigger.net/web-security/access-control#what-is-access-control  
+        2. https://owasp.org/Top10/pt_BR/A01_2021-Broken_Access_Control/  
+        3. https://owasp.org/www-project-top-ten/2017/A5_2017-Broken_Access_Control.html  
+        4. https://dev.to/gabogaldino/explicandobroken-access-control-para-desenvolvedores-5dmn  
+  * Videos:  
+        1. https://www.youtube.com/watch?v=CP29uXLOECc  
+        2. https://www.youtube.com/watch?v=uoXyhnXQyfc  
+        3. https://www.youtube.com/watch?v=K2PiHznrPBs  
+  
+**Falhas criptográficas:**  
+  * Links:   
+        1.   
+        2.   
+        3.   
+        4.    
+  * Videos:  
+        1.    
+        2.    
+        3.
 
-Dia 07-14:
+**Injeção:** 
+  * Links:   
+        1.   
+        2.   
+        3.   
+        4.    
+  * Videos:  
+        1.    
+        2.    
+        3.
 
+**Design inseguro:**  
+  * Links:   
+        1.   
+        2.   
+        3.   
+        4.    
+  * Videos:  
+        1.    
+        2.    
+        3.
 
-Dia 15-21:
+**Configuração incorreta de segurança:**  
+  * Links:   
+        1.   
+        2.   
+        3.   
+        4.    
+  * Videos:  
+        1.    
+        2.    
+        3.
 
+**Componentes Vulneráveis ​​e Desatualizados:**  
+  * Links:   
+        1.   
+        2.   
+        3.   
+        4.    
+  * Videos:  
+        1.    
+        2.    
+        3.
 
-Dia 21-30:
+**Falhas de identificação e autenticação:**  
+  * Links:   
+        1.   
+        2.   
+        3.   
+        4.    
+  * Videos:  
+        1.    
+        2.    
+        3.
 
+**Falhas de Software e Integridade de Dados:**  
+  * Links:   
+        1.   
+        2.   
+        3.   
+        4.    
+  * Videos:  
+        1.    
+        2.    
+        3.
 
-Irei inserir alguns links redirecionando para conteúdos que poderão servir como guia para vocês:
+**Falhas de registro e monitoramento de segurança:**  
+  * Links:   
+        1.   
+        2.   
+        3.   
+        4.    
+  * Videos:  
+        1.    
+        2.    
+        3.
+
+**Falsificação de solicitação do lado do servidor:**  
+  * Links:   
+        1.   
+        2.   
+        3.   
+        4.    
+  * Videos:  
+        1.    
+        2.    
+        3.
 
