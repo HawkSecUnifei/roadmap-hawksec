@@ -62,20 +62,19 @@ Não é possível montar um plano de estudos para cada vulnerabilidade, então s
 
 **Componentes Vulneráveis ​​e Desatualizados:**  
   * Links:   
-        1.   
-        2.   
-        3.   
-        4.    
+        1. https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/    
+        2. https://foresite.com/blog/owasp-top-10-vulnerable-and-outdated-components/     
+        3. https://www.immuniweb.com/blog/OWASP-vulnerable-and-outdated-components.html    
+        4. https://crashtest-security.com/using-components-with-known-vulnerabilities/     
   * Videos:  
-        1.    
-        2.    
-        3.
+        1. https://www.youtube.com/watch?v=AyD7KjOGOO4     
+        2. https://www.youtube.com/watch?v=wpLCjyg1HuM     
 
 **Falhas de identificação e autenticação:**  
   * Links:   
-        1.   
-        2.   
-        3.   
+        1. https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures/    
+        2. https://foresite.com/blog/owasp-top-ten-7-identification-and-authentication-failures/    
+        3. https://cyolo.io/blog/identification-and-authentication-failures-and-how-to-prevent-them    
         4.    
   * Videos:  
         1.    
