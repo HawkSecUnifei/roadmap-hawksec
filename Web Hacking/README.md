@@ -17,47 +17,48 @@ Não é possível montar um plano de estudos para cada vulnerabilidade, então s
   
 **Falhas criptográficas:**  
   * Links:   
-        1.   
-        2.   
-        3.   
-        4.    
+        1. https://owasp.org/Top10/pt_BR/A02_2021-Cryptographic_Failures/   
+        2. https://dev.to/gabogaldino/explicando-o-top-2-da-owasp-falhas-criptograficas-para-desenvolvedores-4846  
+        3. https://crashtest-security.com/owasp-cryptographic-failures/    
+        4. https://www.softwaresecured.com/introduction-to-cryptographic-failures/   
   * Videos:  
-        1.    
-        2.    
-        3.
-
+        1. https://www.youtube.com/watch?v=2CMNNAJ6Ixc       
+        2. https://www.youtube.com/watch?v=85Ds9wOPESw      
+  * Videos de casos:  
+        1. https://www.youtube.com/watch?v=eVPAq1nvSm0
+ 
 **Injeção:** 
   * Links:   
-        1.   
-        2.   
-        3.   
-        4.    
+        1. https://www.acunetix.com/blog/articles/injection-attacks/     
+        2. https://owasp.org/Top10/A03_2021-Injection/   
+        3. https://crashtest-security.com/different-injection-attack-types/  
+        4. https://securityboulevard.com/2022/06/what-are-injection-attacks-2/   
   * Videos:  
-        1.    
-        2.    
-        3.
+        1. https://www.youtube.com/watch?v=8XVHftQskxk     
+        2. https://www.youtube.com/watch?v=efnP8GwT2nc   
+        3. https://www.youtube.com/watch?v=CVX-Wsja6MM  
 
 **Design inseguro:**  
   * Links:   
-        1.   
-        2.   
-        3.   
-        4.    
+        1. https://owasp.org/Top10/A04_2021-Insecure_Design/    
+        2. https://crashtest-security.com/insecure-design-vulnerability/    
+        3. https://foresite.com/blog/owasp-top-10-insecure-design/    
+        4. https://www.immuniweb.com/blog/OWASP-insecure-design.html     
   * Videos:  
-        1.    
-        2.    
-        3.
+        1. https://www.youtube.com/watch?v=2F1NzaWD0Wg   
+        2. https://www.youtube.com/watch?v=4pCiYtVrxBM     
+        3. https://www.youtube.com/watch?v=Hq2iUpGyEDU  
 
 **Configuração incorreta de segurança:**  
   * Links:   
-        1.   
-        2.   
-        3.   
-        4.    
+        1. https://owasp.org/Top10/A05_2021-Security_Misconfiguration/    
+        2. https://www.aquasec.com/cloud-native-academy/supply-chain-security/security-misconfigurations/    
+        3. https://brightsec.com/blog/security-misconfiguration/    
+        4. https://www.balbix.com/insights/security-misconfiguration-impact-examples-and-prevention/     
   * Videos:  
-        1.    
-        2.    
-        3.
+        1. https://www.youtube.com/watch?v=2FJIIN5TZNU     
+        2. https://www.youtube.com/watch?v=Ze-_w9IQ03M   
+        3. https://www.youtube.com/watch?v=ouuXu9_UM0w  
 
 **Componentes Vulneráveis ​​e Desatualizados:**  
   * Links:   
@@ -117,5 +118,5 @@ Não é possível montar um plano de estudos para cada vulnerabilidade, então s
 Irei inserir alguns links redirecionando para conteúdos que poderão servir como guia para vocês:  
 
 https://book.hacktricks.xyz/pentesting-web/web-vulnerabilities-methodology  
-https://xpsec.co/roadmap  
-
+https://xpsec.co/roadmap    
+https://cwe.mitre.org/data/definitions/1344.html  
