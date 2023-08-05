@@ -75,22 +75,21 @@ Não é possível montar um plano de estudos para cada vulnerabilidade, então s
         1. https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures/    
         2. https://foresite.com/blog/owasp-top-ten-7-identification-and-authentication-failures/    
         3. https://cyolo.io/blog/identification-and-authentication-failures-and-how-to-prevent-them    
-        4.    
+        4. https://www.immuniweb.com/blog/OWASP-identification-and-authentication-failures.html     
   * Videos:  
-        1.    
-        2.    
-        3.
+        1. https://www.youtube.com/watch?v=I1pe08TihKM     
+        2. https://www.youtube.com/watch?v=-s23eCVtVhI     
+        3. https://www.youtube.com/watch?v=ZvN5g9TatW0  
 
 **Falhas de Software e Integridade de Dados:**  
   * Links:   
-        1.   
-        2.   
-        3.   
-        4.    
+        1. https://owasp.org/Top10/A08_2021-Software_and_Data_Integrity_Failures/    
+        2. https://crashtest-security.com/owasp-software-data-integrity-failures/    
+        3. https://www.educative.io/answers/what-are-software-and-data-integrity-failures    
+        4. https://foresite.com/blog/owasp-top-10-8-software-and-data-integrity-failures/     
   * Videos:  
-        1.    
-        2.    
-        3.
+        1. https://www.youtube.com/watch?v=TwfLvG0D6dc     
+        2. https://www.youtube.com/watch?v=D4iQg4V7GmY     
 
 **Falhas de registro e monitoramento de segurança:**  
   * Links:   
