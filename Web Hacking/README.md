@@ -1,8 +1,18 @@
-Autoestudo de Web Hacking
+**Autoestudo de Web Hacking**
+
+**Dia 01-06**: Controle de acesso quebrado, Falhas criptográficas   
+
+**Dia 07-12**: Injeção, Design inseguro   
+
+**Dia 13-18**: Configuração incorreta de segurança, Componentes Vulneráveis ​​e Desatualizados   
+
+**Dia 19-24**: Falhas de identificação e autenticação, Falhas de Software e Integridade de Dados   
+
+**Dia 25-30**: Falhas de registro e monitoramento de segurança, Falsificação de solicitação do lado do servidor   
 
 Em todo Web Pentest, existem vários lugares ocultos e óbvios que podem estar vulneráveis. Detalhes básicos já foram cobridos em outros diretórios da HawkSec, então será mais focado nas vulnerabilidades. Ninguem consegue especializar só estudando, invadir sistemas é a melhor maneira de aprender. Como não há como cobrir todos as vulnerabilidades, será focado no top 10 OWASP.
 
-Não é possível montar um plano de estudos para cada vulnerabilidade, então será postado links com explicações e como acessar essas vulnerabilidade.
+Não é possível montar um plano de estudos para cada vulnerabilidade, então será postado links com explicações.
 
 **Controle de acesso quebrado:**  
   * Links:   
@@ -93,25 +103,25 @@ Não é possível montar um plano de estudos para cada vulnerabilidade, então s
 
 **Falhas de registro e monitoramento de segurança:**  
   * Links:   
-        1.   
-        2.   
-        3.   
-        4.    
+        1. https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures/    
+        2. https://www.educative.io/answers/what-are-security-logging-and-monitoring-failures     
+        3. https://www.immuniweb.com/blog/OWASP-security-logging-and-monitoring-failures.html     
+        4. https://crashtest-security.com/insufficient-logging-monitoring-guide/   
   * Videos:  
-        1.    
-        2.    
-        3.
+        1. https://www.youtube.com/watch?v=EZCiul2sYc0      
+        2. https://www.youtube.com/watch?v=j81qGJZ8WOs      
+        3. https://www.youtube.com/watch?v=t_VWIGfkakc   
 
 **Falsificação de solicitação do lado do servidor:**  
   * Links:   
-        1.   
-        2.   
-        3.   
-        4.    
+        1. https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/      
+        2. https://portswigger.net/web-security/ssrf     
+        3. https://rodolfomarianocy.medium.com/ssrf-entenda-o-básico-de-forma-simples-e-algumas-formas-de-bypass-e694751acc0e     
+        4. https://www.imperva.com/learn/application-security/server-side-request-forgery-ssrf/      
   * Videos:  
-        1.    
-        2.    
-        3.  
+        1. https://www.youtube.com/watch?v=jvoTqhDWasI      
+        2. https://www.youtube.com/watch?v=kSVv0AxlTVk      
+        3. https://www.youtube.com/watch?v=eVI0Ny5cZ2c    
 
 Irei inserir alguns links redirecionando para conteúdos que poderão servir como guia para vocês:  
 
