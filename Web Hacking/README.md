@@ -128,3 +128,4 @@ Irei inserir alguns links redirecionando para conteúdos que poderão servir com
 https://book.hacktricks.xyz/pentesting-web/web-vulnerabilities-methodology  
 https://xpsec.co/roadmap    
 https://cwe.mitre.org/data/definitions/1344.html  
+https://portswigger.net/web-security/all-materials   
