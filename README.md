@@ -29,7 +29,7 @@ Além disso, temos [discussões](https://github.com/HawkSecUnifei/roadmap-hawkse
 
 ## Como faço para entrar em contato?
 
-Para entrar em contato, você pode enviar um e-mail para `hawksec.unifei@proton.me`
+Para entrar em contato, você pode enviar um e-mail para `hawksecctf@gmail.com`
 
 ## Redes Sociais
 
